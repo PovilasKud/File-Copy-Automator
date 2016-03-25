@@ -1,0 +1,9 @@
+###################################
+# NSFC - NORSK SJOMAT FILE COPIER #
+###################################
+
+# FUNCTIONS:
+	1.	Get all file names, paths of files that needs to be copied to new folder.
+	2.	Trim file name only to LOTNR that is going to be folder name
+	3.	Create folder with name LOTNR
+	4.	Copy file to newly created folder
